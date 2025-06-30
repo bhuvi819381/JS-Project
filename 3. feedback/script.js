@@ -8,7 +8,7 @@ let getVal = "";
 rating.forEach((r) => {
   r.addEventListener("click", () => {
 
-    ratings.forEach((el) => el.classList.remove("active"));
+    rating.forEach((el) => el.classList.remove("active"));
 
     r.classList.add("active");
     // r.style.backgroundColor = "red";
