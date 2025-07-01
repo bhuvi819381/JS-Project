@@ -1,0 +1,105 @@
+🔰 Beginner (1–40)
+1. Counter App
+2. To-Do List
+3. Digital Clock
+4. Stopwatch
+5. Random Quote Generator
+6. Color Changer (on click)
+7. Calculator
+8. Tip Calculator
+9. BMI Calculator
+10. Grocery List App
+11. Password Strength Checker
+12. Palindrome Checker
+13. Background Gradient Generator
+14. Form Validator
+15. Temperature Converter
+16. Character Counter
+17. Age Calculator
+18. Image Slider
+19. Light/Dark Theme Toggle
+20. Dice Roller
+21. Rock-Paper-Scissors Game
+22. Quiz App
+23. Guess the Number Game
+24. Random Joke Generator
+25. Tabs UI
+26. Accordion UI
+27. Modal Popup
+28. Image Zoom Effect
+29. Simple Drawing App (Canvas)
+30. Random Emoji Picker
+31. Keyboard Event Logger
+32. Currency Converter (API)
+33. Weather App (API)
+34. Sticky Notes App
+35. Local Storage Notes App
+36. Auto Typing Effect
+37. QR Code Generator
+38. Color Picker Tool
+39. Scroll To Top Button
+40. Mouse Follower Animation
+
+⚙️ Intermediate (41–80)
+41. Memory Card Game
+42. Tic-Tac-Toe Game
+43. Markdown Previewer
+44. Pomodoro Timer
+45. Speech-to-Text App
+46. Text-to-Speech App
+47. Drag & Drop UI
+48. Infinite Scroll Blog
+49. Typing Speed Test
+50. PDF Generator (from form)
+51. Expense Tracker App
+52. Countdown Timer
+53. Image Upload Previewer     
+54. Clipboard Copy Tool
+55. Unit Converter (weight, length, etc.)
+56. Custom Video Player
+57. Real-Time Character Filter
+58. Music Player (with audio API)
+59. Recipe Finder (API)
+60. Star Rating System
+61. Newsletter Signup Page
+62. Shopping Cart (LocalStorage)
+63. GitHub User Search (API)
+64. Movie Search App (API)
+65. Blog Website (Static)
+66. Daily Journal App
+67. Kanban Board (like Trello)
+68. Portfolio Website (dynamic sections)
+69. Editable Table
+70. Theme Customizer Tool
+71. Dynamic Form Fields
+72. LocalStorage Auth Demo
+73. Lazy Loading Images
+74. Password Generator App
+75. Pixel Art Drawing Board
+76. Loan Calculator
+77. Stopwatch with Lap Function
+78. Multi-Step Form
+79. Speech Command Game
+80. File Drag and Upload App
+
+🚀 Advanced (81–100)
+81. Chat App (with Firebase)
+82. Real-Time Weather Dashboard
+83. YouTube Video Search App
+84. Custom JavaScript Framework (mini React)
+85. Markdown Blog CMS
+86. Browser Code Editor
+87. Real-Time Voting App
+88. Voice Assistant App (using Speech APIs)
+89. Data Visualization Dashboard (with Chart.js or D3.js)
+90. Flashcard Learning App
+91. Budget Planner App
+92. Expense Chart App
+93. Multi-Language Translator (API)
+94. Quiz Battle (multiplayer via sockets)
+95. Realtime Markdown Chat
+96. Spotify-like Audio Player
+97. Recipe Manager with Favorites
+98. Portfolio Builder Tool
+99. Online Text Editor (with autosave)
+100. Personal Finance Tracker (CRUD)
