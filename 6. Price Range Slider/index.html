@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Price Range Slider</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main class="price-range-slider">
+    <h1 class="title">Price Range Slider</h1>
+
+    <div class="inputs">
+      <label>
+        Minimum Price
+        <input type="number" class="min-input" value="2500" min="0" max="10000" />
+      </label>
+      <label>
+        Maximum Price
+        <input type="number" class="max-input" value="8500" min="0" max="10000" />
+      </label>
+    </div>
+
+    <div class="slider-container">
+      <div class="track"></div>
+      <div class="range"></div>
+      <input type="range" class="min-range" min="0" max="10000" value="2500" />
+      <input type="range" class="max-range" min="0" max="10000" value="8500" />
+    </div>
+
+    <p class="error-msg"></p>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>

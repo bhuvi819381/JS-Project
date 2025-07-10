@@ -1,0 +1,202 @@
+website = https://www.geeksforgeeks.org/javascript/top-javascript-projects/
+
+🟢 Beginner Projects
+Price Range Slider with Min-Max Input
+
+Lorem Ipsum Generator
+
+Data Export and Import
+
+Toast Notification
+
+Button Loading Animation
+
+Animated Click Effect
+
+Create a Pagination
+
+Popup Box Design
+
+Prime Number Finder
+
+Anagram Checker App
+
+Anagram Counter
+
+Password Strength Checker
+
+Wikipedia Search
+
+Star Rating Design
+
+Password Generator App
+
+Age Calculator
+
+OTP Input Field
+
+Calculator Design
+
+Length Converter
+
+Aspect Ratio Calculator
+
+Simple Counter Design
+
+Simple Calendar
+
+Word and Character Counter
+
+Multiplication Quiz Webapp
+
+Create a Stopwatch
+
+Temperature Converter
+
+Randomly Change Image Color
+
+Image Slider
+
+Percentage Calculator
+
+Dark Mode for Websites
+
+Student Grade Calculator
+
+Navigation Menu
+
+Incremental and Decremental Counter
+
+Analog Clock
+
+Hit the Mouse Game
+
+Expanding Cards
+
+Tip Calculator
+
+Image Gallery
+
+Loan Calculator
+
+BMI Calculator
+
+Rock, Paper, and Scissor Game
+
+Hex Color Generator
+
+Background Color Changer
+
+Crack-The-Code Game
+
+Dragon’s World Game
+
+Tic-Tac-Toe Game
+
+Binary Calculator
+
+Gallery Viewer
+
+Emoji Generator
+
+Word Scramble Game
+
+Search Bar Design
+
+Create a Coin Flip
+
+QR Code Generator
+
+Image Resizer and Compressor Tool
+
+Digital Clock
+
+QR Code Scanner or Reader
+
+Task Scheduler
+
+Spy Number Checker
+
+Mobile Toggle Navigation
+
+Unicode Character Value
+
+Random Password Generator
+
+Show and Hide Password
+
+🟡 Intermediate Projects
+GitHub Profile Search
+
+Bookmark Landing Page
+
+Multi-Step Progress Bar
+
+Notes App Design
+
+Quiz App with Timer
+
+Autoplay Carousel
+
+Letter Hover Effect
+
+Expense Tracker
+
+Table Sort Pro
+
+Dynamic Resume Builder
+
+Nested Chat Comments
+
+Number System Converter
+
+Word Guessing Game
+
+Landing Page
+
+Link tree
+
+Tap-the-Geek Game
+
+Random Number Generator
+
+JavaScript Carousel
+
+Palindrome Checker App
+
+Budget Management Tool
+
+Portfolio Website
+
+Mouse Move Parallax Effects
+
+Detect Internet Speed Test
+
+Task Tracker Project
+
+🔴 Advanced Projects
+Employee Database Management System
+
+Stack Visualizer
+
+Responsive Admin Dashboard
+
+Responsive Sliding Login & Registration Form
+
+Simple Image Editor
+
+Pay Role Management Webpage
+
+Sentence Translator
+
+Payroll Management Webpage
+
+Text to Speech Convertor
+
+AI Image Generator Website
+
+Online Grocery Website
+
+Joke Generator App
+
+Online Cake Shop Website
